@@ -90,4 +90,6 @@ SELECT
     ROUND((price*amount) / (SELECT SUM(price*amount) FROM book) *100, 2) income_percent
 FROM book
 ORDER BY income_percent DESC;
+1
+
 
