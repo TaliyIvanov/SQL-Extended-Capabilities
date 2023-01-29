@@ -7,6 +7,8 @@
 - курс Interactive SQL Trainer: https://stepik.org/course/63054/syllabus
 - руководство по стилю SQL: https://www.sqlstyle.guide/ru/
 - отформатировать ваш запрос с помощью: https://codebeautify.org/sqlformatter
+- оконные функции: https://habr.com/ru/post/664000/
+- Учебник по языку SQL (DDL, DML) на примере диалекта MS SQL Server. Часть первая: https://habr.com/ru/post/255361/
 
 **Темы, которые изучаются на курсе**
 
